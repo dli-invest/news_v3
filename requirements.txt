@@ -1,0 +1,5 @@
+icecream
+Scrapy>=2.5.0
+beautifulsoup4
+dateparser
+pandas
