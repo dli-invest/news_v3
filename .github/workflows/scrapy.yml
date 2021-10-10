@@ -31,7 +31,7 @@ jobs:
       - name: Crawl
         run:  |
          cd news_v3
-         scrapy crawl yahoo_finance
+         scrapy crawl stock_news
       - name: Commit files
         run: |
           if [[ -z $(git status -s) ]]
