@@ -36,6 +36,11 @@ class YahooStockSpider(scrapy.Spider):
         urls = yahoo_urls
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
+            if len(self.embeds_in_queue) >= 8:
+                data = {}
+                data["embeds"] = self.embeds_in_queue
+                self.embeds_in_queue = []
+                self.post_webhook_content(data)
 
     def parse(self, response):
         try:
@@ -59,17 +64,11 @@ class YahooStockSpider(scrapy.Spider):
                     embed_url = embed_item.get('url')
                     if embed_url not in self.read_article_urls:
                         self.read_article_urls.append(embed_url)
-                    if len(self.embeds_in_queue) >= 9:
-                        data = {}
-                        data["embeds"] = self.embeds_in_queue
-                        self.embeds_in_queue = []
-                        self.post_webhook_content(data)
-            
-            if len(self.embeds_in_queue) != 0:
-                data = {}
-                data["embeds"] = self.embeds_in_queue
-                self.embeds_in_queue = []
-                self.post_webhook_content(data)
+                    # if len(self.embeds_in_queue) >= 9:
+                    #     data = {}
+                    #     data["embeds"] = self.embeds_in_queue
+                    #     self.embeds_in_queue = []
+                    #     self.post_webhook_content(data)
         except Exception as e:
             pass
 
@@ -104,7 +103,7 @@ class YahooStockSpider(scrapy.Spider):
             return None
         # print(item)
         news_provider = self.get_news_provider(item)
-        provider = news_provider[0]
+        provider = news_provider[0].text
         # article_date = dateparser.parse(date_posted)
         # diff_date = self.current_date - article_date
         url_text = link.text
