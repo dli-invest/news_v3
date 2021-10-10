@@ -21,13 +21,10 @@ class YahooStockSpider(scrapy.Spider):
     read_article_urls = []
     # redirect urls, need to clean up in data
     redirect_urls = []
-    try:
-        with open(output_file) as file_in:
-            for line in file_in:
-                clean_line = line.replace("\n", "")
-                read_article_urls.append(clean_line)
-    except Exception as e:
-        print(e)
+    with open(output_file) as file_in:
+        for line in file_in:
+            clean_line = line.replace("\n", "")
+            read_article_urls.append(clean_line)
 
     def start_requests(self):
         tickers = self.ticker_controller.get_ytickers()
@@ -60,9 +57,9 @@ class YahooStockSpider(scrapy.Spider):
             for item in news_items[0:2]:
                 embed_item = self.parse_news_item(item, response)
                 if embed_item is not None:
-                    self.embeds_in_queue.append(embed_item)
                     embed_url = embed_item.get('url')
                     if embed_url not in self.read_article_urls:
+                        self.embeds_in_queue.append(embed_item)
                         self.read_article_urls.append(embed_url)
                     # if len(self.embeds_in_queue) >= 9:
                     #     data = {}
