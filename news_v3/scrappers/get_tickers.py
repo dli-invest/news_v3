@@ -20,6 +20,9 @@ class TickerControllerV2:
         ticker_df = pd.read_csv(
             "https://raw.githubusercontent.com/FriendlyUser/cad_tickers_list/main/static/latest/stocks.csv"
         )
+        searchfor = [".WT", ".UN"]
+        ticker_df = ticker_df[~ticker_df.col.str.contains('|'.join(searchfor))]
+        # purge tickers with .WT
         tickers_config = cfg.get("tickers_config")
         us_df = pd.DataFrame()
         if tickers_config != None:

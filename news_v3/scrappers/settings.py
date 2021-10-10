@@ -18,7 +18,8 @@ USER_AGENT = 'yahoo_news (+https://friendlyuser.github.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
-
+# list of links for redirects
+REDIRECT_ENABLED= False
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
@@ -27,7 +28,7 @@ ROBOTSTXT_OBEY = True
 # See also autothrottle settings and docs
 DOWNLOAD_DELAY = 0.75
 ROBOTSTXT_OBEY = True
-HTTPERROR_ALLOWED_CODES  =[404]
+HTTPERROR_ALLOWED_CODES  = [302, 404]
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
