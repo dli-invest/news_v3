@@ -5,7 +5,8 @@
 
 import scrapy
 
-
+# convert link to scrapy item
+# https://docs.scrapy.org/en/latest/topics/items.html
 class ScrappersItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
