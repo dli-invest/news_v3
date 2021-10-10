@@ -30,6 +30,7 @@ jobs:
           spacy download en_core_web_sm
       - name: Crawl
         run:  |
+         cd news_v3
          scrapy crawl yahoo_finance
       - name: Commit files
         run: |
