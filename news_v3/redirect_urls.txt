@@ -11,8 +11,8 @@ https://ca.finance.yahoo.com/quote/HRR.UN.TO
 https://ca.finance.yahoo.com/quote/APR.UN.TO
 https://ca.finance.yahoo.com/quote/BEK.B.TO
 https://ca.finance.yahoo.com/quote/BIK.PR.A.TO
-https://ca.finance.yahoo.com/quote/BLB.UN.TO
 https://ca.finance.yahoo.com/quote/BUA.UN.TO
+https://ca.finance.yahoo.com/quote/BLB.UN.TO
 https://ca.finance.yahoo.com/quote/RBN.UN.TO
 https://ca.finance.yahoo.com/quote/ZUS.U.TO
 https://ca.finance.yahoo.com/quote/BEI.UN.TO
