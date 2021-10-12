@@ -354,8 +354,8 @@ https://ca.finance.yahoo.com/quote/URB.CN
 https://ca.finance.yahoo.com/quote/URB.A.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.A.CN
-https://ca.finance.yahoo.com/quote/VEXT.WT.A.CN
 https://ca.finance.yahoo.com/quote/VSBY.WT.A.CN
-https://ca.finance.yahoo.com/quote/VSBY.WT.CN
+https://ca.finance.yahoo.com/quote/VEXT.WT.A.CN
 https://ca.finance.yahoo.com/quote/WDR.WT.CN
+https://ca.finance.yahoo.com/quote/VSBY.WT.CN
 https://ca.finance.yahoo.com/quote/WSM.X.CN
