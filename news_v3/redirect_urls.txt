@@ -59,8 +59,8 @@ https://ca.finance.yahoo.com/quote/DII.A.TO
 https://ca.finance.yahoo.com/quote/MPCT.UN.TO
 https://ca.finance.yahoo.com/quote/DIR.UN.TO
 https://ca.finance.yahoo.com/quote/D.UN.TO
-https://ca.finance.yahoo.com/quote/DHT.U.TO
 https://ca.finance.yahoo.com/quote/DC.A.TO
+https://ca.finance.yahoo.com/quote/DHT.U.TO
 https://ca.finance.yahoo.com/quote/EMP.A.TO
 https://ca.finance.yahoo.com/quote/ENI.UN.TO
 https://ca.finance.yahoo.com/quote/ERE.UN.TO
