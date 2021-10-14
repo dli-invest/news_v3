@@ -341,11 +341,15 @@ https://ca.finance.yahoo.com/quote/PLTH.WT.C.CN
 https://ca.finance.yahoo.com/quote/VEGN.WT.CN
 https://ca.finance.yahoo.com/quote/PLUS.WT.CN
 https://ca.finance.yahoo.com/quote/PLUS.DB.A.CN
+https://ca.finance.yahoo.com/quote/NUGT.CN
 https://ca.finance.yahoo.com/quote/PULL.WT.CN
 https://ca.finance.yahoo.com/quote/TRIP.WT.CN
 https://ca.finance.yahoo.com/quote/RWB.WT.CN
 https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
+https://ca.finance.yahoo.com/quote/SBD.CN
+https://ca.finance.yahoo.com/quote/SLZ.CN
+https://ca.finance.yahoo.com/quote/SGD.CN
 https://ca.finance.yahoo.com/quote/SNA.CN
 https://ca.finance.yahoo.com/quote/TLP.UN.CN
 https://ca.finance.yahoo.com/quote/TCAN.WT.CN
