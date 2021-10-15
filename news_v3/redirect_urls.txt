@@ -79,6 +79,7 @@ https://ca.finance.yahoo.com/quote/HR.UN.TO
 https://ca.finance.yahoo.com/quote/HMM.A.TO
 https://ca.finance.yahoo.com/quote/MDS.UN.TO
 https://ca.finance.yahoo.com/quote/HFPC.U.TO
+https://ca.finance.yahoo.com/quote/HSM.TO
 https://ca.finance.yahoo.com/quote/CBD.U.TO
 https://ca.finance.yahoo.com/quote/HSUV.U.TO
 https://ca.finance.yahoo.com/quote/INC.UN.TO
