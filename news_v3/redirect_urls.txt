@@ -142,9 +142,9 @@ https://ca.finance.yahoo.com/quote/SSF.UN.TO
 https://ca.finance.yahoo.com/quote/TECK.A.TO
 https://ca.finance.yahoo.com/quote/QETH.U.TO
 https://ca.finance.yahoo.com/quote/TXT.PR.A.TO
+https://ca.finance.yahoo.com/quote/TCL.A.TO
 https://ca.finance.yahoo.com/quote/TNT.UN.TO
 https://ca.finance.yahoo.com/quote/TVA.B.TO
-https://ca.finance.yahoo.com/quote/TCL.A.TO
 https://ca.finance.yahoo.com/quote/VWE.U.TO
 https://ca.finance.yahoo.com/quote/VMH.U.TO
 https://ca.finance.yahoo.com/quote/W.PR.M.TO
@@ -171,8 +171,8 @@ https://ca.finance.yahoo.com/quote/BLTC.P.V
 https://ca.finance.yahoo.com/quote/STAK.P.V
 https://ca.finance.yahoo.com/quote/BMGB.P.V
 https://ca.finance.yahoo.com/quote/BOLD.P.V
-https://ca.finance.yahoo.com/quote/BRN.PR.A.V
 https://ca.finance.yahoo.com/quote/BRCB.P.V
+https://ca.finance.yahoo.com/quote/BRN.PR.A.V
 https://ca.finance.yahoo.com/quote/BZBZ.P.V
 https://ca.finance.yahoo.com/quote/NET.UN.V
 https://ca.finance.yahoo.com/quote/NIS.P.V
