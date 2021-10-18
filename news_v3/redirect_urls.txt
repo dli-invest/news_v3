@@ -344,10 +344,8 @@ https://ca.finance.yahoo.com/quote/PLUS.DB.A.CN
 https://ca.finance.yahoo.com/quote/PULL.WT.CN
 https://ca.finance.yahoo.com/quote/TRIP.WT.CN
 https://ca.finance.yahoo.com/quote/RWB.WT.CN
-https://ca.finance.yahoo.com/quote/RFR.CN
 https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
-https://ca.finance.yahoo.com/quote/SENS.CN
 https://ca.finance.yahoo.com/quote/SNA.CN
 https://ca.finance.yahoo.com/quote/TLP.UN.CN
 https://ca.finance.yahoo.com/quote/TCAN.WT.CN
