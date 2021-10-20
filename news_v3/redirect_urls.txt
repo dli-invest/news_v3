@@ -347,9 +347,9 @@ https://ca.finance.yahoo.com/quote/RWB.WT.CN
 https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
 https://ca.finance.yahoo.com/quote/SNA.CN
-https://ca.finance.yahoo.com/quote/TLP.UN.CN
 https://ca.finance.yahoo.com/quote/TCAN.WT.CN
 https://ca.finance.yahoo.com/quote/TRUL.DB.U.CN
+https://ca.finance.yahoo.com/quote/TLP.UN.CN
 https://ca.finance.yahoo.com/quote/URB.CN
 https://ca.finance.yahoo.com/quote/URB.A.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.CN
