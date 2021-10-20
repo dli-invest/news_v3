@@ -208,8 +208,8 @@ https://ca.finance.yahoo.com/quote/GHM.P.V
 https://ca.finance.yahoo.com/quote/GII.P.V
 https://ca.finance.yahoo.com/quote/GONE.P.V
 https://ca.finance.yahoo.com/quote/GAC.P.V
-https://ca.finance.yahoo.com/quote/GSGS.P.V
 https://ca.finance.yahoo.com/quote/HAKK.P.V
+https://ca.finance.yahoo.com/quote/GSGS.P.V
 https://ca.finance.yahoo.com/quote/HAW.P.V
 https://ca.finance.yahoo.com/quote/HTE.P.V
 https://ca.finance.yahoo.com/quote/HSC.P.V
