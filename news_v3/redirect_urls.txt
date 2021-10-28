@@ -285,12 +285,12 @@ https://ca.finance.yahoo.com/quote/AAWH.U.CN
 https://ca.finance.yahoo.com/quote/AVM.X.CN
 https://ca.finance.yahoo.com/quote/ACA.CN
 https://ca.finance.yahoo.com/quote/AYR.NT.U.CN
-https://ca.finance.yahoo.com/quote/AYR.WT.CN
 https://ca.finance.yahoo.com/quote/AYR.A.CN
+https://ca.finance.yahoo.com/quote/AYR.WT.CN
+https://ca.finance.yahoo.com/quote/BBR.WT.CN
 https://ca.finance.yahoo.com/quote/BRCK.U.CN
 https://ca.finance.yahoo.com/quote/BKS.CN
 https://ca.finance.yahoo.com/quote/BXV.CN
-https://ca.finance.yahoo.com/quote/BBR.WT.CN
 https://ca.finance.yahoo.com/quote/BLR.WT.CN
 https://ca.finance.yahoo.com/quote/BTC.PR.A.CN
 https://ca.finance.yahoo.com/quote/BGRD.X.CN
