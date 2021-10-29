@@ -128,8 +128,8 @@ https://ca.finance.yahoo.com/quote/RIB.UN.TO
 https://ca.finance.yahoo.com/quote/REI.UN.TO
 https://ca.finance.yahoo.com/quote/MIC.PR.A.TO
 https://ca.finance.yahoo.com/quote/SJR.B.TO
-https://ca.finance.yahoo.com/quote/SRV.UN.TO
 https://ca.finance.yahoo.com/quote/SGR.R.TO
+https://ca.finance.yahoo.com/quote/SRV.UN.TO
 https://ca.finance.yahoo.com/quote/SOT.DB.TO
 https://ca.finance.yahoo.com/quote/SRU.UN.TO
 https://ca.finance.yahoo.com/quote/U.U.TO
