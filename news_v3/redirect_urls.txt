@@ -291,8 +291,6 @@ https://ca.finance.yahoo.com/quote/CHM.WT.CN
 https://ca.finance.yahoo.com/quote/CHOO.WT.CN
 https://ca.finance.yahoo.com/quote/DOC.WT.CN
 https://ca.finance.yahoo.com/quote/CXC.CN
-https://ca.finance.yahoo.com/quote/COYX.CN
-https://ca.finance.yahoo.com/quote/CFT.CN
 https://ca.finance.yahoo.com/quote/CL.WT.CN
 https://ca.finance.yahoo.com/quote/DVN.WT.CN
 https://ca.finance.yahoo.com/quote/FONE.WT.B.CN
