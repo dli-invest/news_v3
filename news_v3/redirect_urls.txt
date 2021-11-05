@@ -107,8 +107,8 @@ https://ca.finance.yahoo.com/quote/NIF.UN.TO
 https://ca.finance.yahoo.com/quote/NHF.UN.TO
 https://ca.finance.yahoo.com/quote/NWH.DB.F.TO
 https://ca.finance.yahoo.com/quote/PVS.PR.F.TO
-https://ca.finance.yahoo.com/quote/PMB.UN.TO
 https://ca.finance.yahoo.com/quote/PGI.UN.TO
+https://ca.finance.yahoo.com/quote/PMB.UN.TO
 https://ca.finance.yahoo.com/quote/PTI.UN.TO
 https://ca.finance.yahoo.com/quote/PTO.UN.TO
 https://ca.finance.yahoo.com/quote/PLZ.DB.E.TO
@@ -125,8 +125,8 @@ https://ca.finance.yahoo.com/quote/REI.UN.TO
 https://ca.finance.yahoo.com/quote/RCI.A.TO
 https://ca.finance.yahoo.com/quote/MIC.PR.A.TO
 https://ca.finance.yahoo.com/quote/SJR.B.TO
-https://ca.finance.yahoo.com/quote/SRV.UN.TO
 https://ca.finance.yahoo.com/quote/SGR.U.TO
+https://ca.finance.yahoo.com/quote/SRV.UN.TO
 https://ca.finance.yahoo.com/quote/SOT.DB.TO
 https://ca.finance.yahoo.com/quote/SRU.UN.TO
 https://ca.finance.yahoo.com/quote/U.U.TO
@@ -149,9 +149,9 @@ https://ca.finance.yahoo.com/quote/ALCC.P.V
 https://ca.finance.yahoo.com/quote/ALBA.P.V
 https://ca.finance.yahoo.com/quote/AAD.P.V
 https://ca.finance.yahoo.com/quote/ACCA.P.V
-https://ca.finance.yahoo.com/quote/AIME.P.V
 https://ca.finance.yahoo.com/quote/AIMF.P.V
 https://ca.finance.yahoo.com/quote/ALPS.U.V
+https://ca.finance.yahoo.com/quote/AIME.P.V
 https://ca.finance.yahoo.com/quote/ALTN.P.V
 https://ca.finance.yahoo.com/quote/AAC.P.V
 https://ca.finance.yahoo.com/quote/ANCV.P.V
@@ -181,8 +181,8 @@ https://ca.finance.yahoo.com/quote/CRAN.P.V
 https://ca.finance.yahoo.com/quote/CBX.P.V
 https://ca.finance.yahoo.com/quote/CRSS.P.V
 https://ca.finance.yahoo.com/quote/CCII.P.V
-https://ca.finance.yahoo.com/quote/DCX.P.V
 https://ca.finance.yahoo.com/quote/DUR.P.V
+https://ca.finance.yahoo.com/quote/DCX.P.V
 https://ca.finance.yahoo.com/quote/DPCC.P.V
 https://ca.finance.yahoo.com/quote/DGL.P.V
 https://ca.finance.yahoo.com/quote/DURO.P.V
