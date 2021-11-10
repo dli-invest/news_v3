@@ -76,15 +76,15 @@ https://ca.finance.yahoo.com/quote/HFPC.U.TO
 https://ca.finance.yahoo.com/quote/CBD.U.TO
 https://ca.finance.yahoo.com/quote/HSUV.U.TO
 https://ca.finance.yahoo.com/quote/INC.UN.TO
+https://ca.finance.yahoo.com/quote/IAF.PR.B.TO
 https://ca.finance.yahoo.com/quote/INO.UN.TO
 https://ca.finance.yahoo.com/quote/INCR.U.TO
 https://ca.finance.yahoo.com/quote/CLP.UN.TO
-https://ca.finance.yahoo.com/quote/IAF.PR.B.TO
+https://ca.finance.yahoo.com/quote/IIP.UN.TO
 https://ca.finance.yahoo.com/quote/PXU.F.TO
 https://ca.finance.yahoo.com/quote/PFH.F.TO
 https://ca.finance.yahoo.com/quote/ULV.C.TO
 https://ca.finance.yahoo.com/quote/BKL.C.TO
-https://ca.finance.yahoo.com/quote/IIP.UN.TO
 https://ca.finance.yahoo.com/quote/JFS.UN.TO
 https://ca.finance.yahoo.com/quote/KEG.UN.TO
 https://ca.finance.yahoo.com/quote/KMP.UN.TO
