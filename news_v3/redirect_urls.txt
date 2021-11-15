@@ -243,9 +243,9 @@ https://ca.finance.yahoo.com/quote/POCC.P.V
 https://ca.finance.yahoo.com/quote/RRR.UN.V
 https://ca.finance.yahoo.com/quote/RBZ.P.V
 https://ca.finance.yahoo.com/quote/RSE.P.V
-https://ca.finance.yahoo.com/quote/RJX.A.V
 https://ca.finance.yahoo.com/quote/RMS.P.V
 https://ca.finance.yahoo.com/quote/R.P.V
+https://ca.finance.yahoo.com/quote/RJX.A.V
 https://ca.finance.yahoo.com/quote/SAAS.P.V
 https://ca.finance.yahoo.com/quote/SSS.P.V
 https://ca.finance.yahoo.com/quote/SJR.A.V
@@ -270,8 +270,8 @@ https://ca.finance.yahoo.com/quote/GIG.P.V
 https://ca.finance.yahoo.com/quote/YUB.P.V
 https://ca.finance.yahoo.com/quote/ZENI.P.V
 https://ca.finance.yahoo.com/quote/FFNT.WT.CN
-https://ca.finance.yahoo.com/quote/ACRG.A.U.CN
 https://ca.finance.yahoo.com/quote/ACRG.B.U.CN
+https://ca.finance.yahoo.com/quote/ACRG.A.U.CN
 https://ca.finance.yahoo.com/quote/AG.UN.CN
 https://ca.finance.yahoo.com/quote/AAWH.U.CN
 https://ca.finance.yahoo.com/quote/AVM.X.CN
@@ -323,8 +323,8 @@ https://ca.finance.yahoo.com/quote/VEGN.WT.CN
 https://ca.finance.yahoo.com/quote/PULL.WT.CN
 https://ca.finance.yahoo.com/quote/TRIP.WT.CN
 https://ca.finance.yahoo.com/quote/RWB.WT.CN
-https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
+https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/SNA.CN
 https://ca.finance.yahoo.com/quote/PKK.WT.CN
 https://ca.finance.yahoo.com/quote/TGOD.WB.CN
@@ -332,13 +332,13 @@ https://ca.finance.yahoo.com/quote/TGOD.WS.CN
 https://ca.finance.yahoo.com/quote/TGOD.WR.CN
 https://ca.finance.yahoo.com/quote/TLP.UN.CN
 https://ca.finance.yahoo.com/quote/TCAN.WT.CN
-https://ca.finance.yahoo.com/quote/TCC.DB.A.CN
 https://ca.finance.yahoo.com/quote/TCC.DB.CN
 https://ca.finance.yahoo.com/quote/TRUL.WT.CN
 https://ca.finance.yahoo.com/quote/TRUL.DB.U.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.A.CN
 https://ca.finance.yahoo.com/quote/URB.A.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.CN
+https://ca.finance.yahoo.com/quote/TCC.DB.A.CN
 https://ca.finance.yahoo.com/quote/VEXT.WT.CN
 https://ca.finance.yahoo.com/quote/VEXT.WT.A.CN
 https://ca.finance.yahoo.com/quote/VSBY.WT.A.CN
