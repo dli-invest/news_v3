@@ -209,10 +209,10 @@ https://ca.finance.yahoo.com/quote/HVI.P.V
 https://ca.finance.yahoo.com/quote/HTE.P.V
 https://ca.finance.yahoo.com/quote/HSC.P.V
 https://ca.finance.yahoo.com/quote/JJJJ.P.V
+https://ca.finance.yahoo.com/quote/JPWR.UN.V
 https://ca.finance.yahoo.com/quote/JES.P.V
 https://ca.finance.yahoo.com/quote/SARG.P.V
 https://ca.finance.yahoo.com/quote/JST.P.V
-https://ca.finance.yahoo.com/quote/JPWR.UN.V
 https://ca.finance.yahoo.com/quote/KAPA.P.V
 https://ca.finance.yahoo.com/quote/KKL.P.V
 https://ca.finance.yahoo.com/quote/LCC.P.V
