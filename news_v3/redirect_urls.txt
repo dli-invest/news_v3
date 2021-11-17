@@ -337,8 +337,8 @@ https://ca.finance.yahoo.com/quote/TCC.DB.CN
 https://ca.finance.yahoo.com/quote/TRUL.WT.CN
 https://ca.finance.yahoo.com/quote/TRUL.DB.U.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.A.CN
-https://ca.finance.yahoo.com/quote/URB.A.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.CN
+https://ca.finance.yahoo.com/quote/URB.A.CN
 https://ca.finance.yahoo.com/quote/VEXT.WT.CN
 https://ca.finance.yahoo.com/quote/VEXT.WT.A.CN
 https://ca.finance.yahoo.com/quote/VSBY.WT.A.CN
