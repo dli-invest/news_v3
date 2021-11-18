@@ -230,8 +230,8 @@ https://ca.finance.yahoo.com/quote/MOO.P.V
 https://ca.finance.yahoo.com/quote/HIP.WT.A.V
 https://ca.finance.yahoo.com/quote/NHT.U.V
 https://ca.finance.yahoo.com/quote/NFD.A.V
-https://ca.finance.yahoo.com/quote/ORC.A.V
 https://ca.finance.yahoo.com/quote/ORCS.P.V
+https://ca.finance.yahoo.com/quote/ORC.A.V
 https://ca.finance.yahoo.com/quote/PANO.P.V
 https://ca.finance.yahoo.com/quote/PVF.PR.U.V
 https://ca.finance.yahoo.com/quote/PCL.P.V
@@ -242,10 +242,10 @@ https://ca.finance.yahoo.com/quote/PIV.P.V
 https://ca.finance.yahoo.com/quote/POCC.P.V
 https://ca.finance.yahoo.com/quote/RRR.UN.V
 https://ca.finance.yahoo.com/quote/RBZ.P.V
-https://ca.finance.yahoo.com/quote/RSE.P.V
 https://ca.finance.yahoo.com/quote/RJX.A.V
 https://ca.finance.yahoo.com/quote/RMS.P.V
 https://ca.finance.yahoo.com/quote/R.P.V
+https://ca.finance.yahoo.com/quote/RSE.P.V
 https://ca.finance.yahoo.com/quote/SAAS.P.V
 https://ca.finance.yahoo.com/quote/SSS.P.V
 https://ca.finance.yahoo.com/quote/SJR.A.V
@@ -281,8 +281,8 @@ https://ca.finance.yahoo.com/quote/AYR.A.CN
 https://ca.finance.yahoo.com/quote/BBR.WT.CN
 https://ca.finance.yahoo.com/quote/BRCK.U.CN
 https://ca.finance.yahoo.com/quote/BKS.CN
-https://ca.finance.yahoo.com/quote/BLR.WT.CN
 https://ca.finance.yahoo.com/quote/BTC.PR.A.CN
+https://ca.finance.yahoo.com/quote/BLR.WT.CN
 https://ca.finance.yahoo.com/quote/LILY.CN
 https://ca.finance.yahoo.com/quote/CSQ.CN
 https://ca.finance.yahoo.com/quote/TIUM.U.CN
