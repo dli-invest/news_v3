@@ -296,8 +296,8 @@ https://ca.finance.yahoo.com/quote/DVN.WT.CN
 https://ca.finance.yahoo.com/quote/FONE.WT.B.CN
 https://ca.finance.yahoo.com/quote/FONE.WT.A.CN
 https://ca.finance.yahoo.com/quote/FONE.DB.C.CN
-https://ca.finance.yahoo.com/quote/FONE.DB.B.CN
 https://ca.finance.yahoo.com/quote/FONE.WT.CN
+https://ca.finance.yahoo.com/quote/FONE.DB.B.CN
 https://ca.finance.yahoo.com/quote/GHG.WT.CN
 https://ca.finance.yahoo.com/quote/SWIS.WT.CN
 https://ca.finance.yahoo.com/quote/CANN.WT.A.CN
@@ -314,8 +314,8 @@ https://ca.finance.yahoo.com/quote/MSET.WT.CN
 https://ca.finance.yahoo.com/quote/MY.X.CN
 https://ca.finance.yahoo.com/quote/NAB.NT.CN
 https://ca.finance.yahoo.com/quote/SPOR.WT.CN
-https://ca.finance.yahoo.com/quote/VAI.X.CN
 https://ca.finance.yahoo.com/quote/OPTI.WT.CN
+https://ca.finance.yahoo.com/quote/VAI.X.CN
 https://ca.finance.yahoo.com/quote/PLTH.WT.D.CN
 https://ca.finance.yahoo.com/quote/PLTH.WT.A.CN
 https://ca.finance.yahoo.com/quote/PLTH.WT.B.CN
