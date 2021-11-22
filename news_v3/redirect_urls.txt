@@ -218,6 +218,7 @@ https://ca.finance.yahoo.com/quote/KKL.P.V
 https://ca.finance.yahoo.com/quote/LCC.P.V
 https://ca.finance.yahoo.com/quote/LRT.DB.G.V
 https://ca.finance.yahoo.com/quote/LILL.P.V
+https://ca.finance.yahoo.com/quote/LOOP.V
 https://ca.finance.yahoo.com/quote/MAR.UN.V
 https://ca.finance.yahoo.com/quote/MCM.A.V
 https://ca.finance.yahoo.com/quote/MEED.P.V
