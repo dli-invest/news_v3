@@ -99,8 +99,8 @@ https://ca.finance.yahoo.com/quote/RA.UN.TO
 https://ca.finance.yahoo.com/quote/MID.UN.TO
 https://ca.finance.yahoo.com/quote/MI.UN.TO
 https://ca.finance.yahoo.com/quote/MRG.DB.A.TO
-https://ca.finance.yahoo.com/quote/nan.TO
 https://ca.finance.yahoo.com/quote/MRT.DB.TO
+https://ca.finance.yahoo.com/quote/nan.TO
 https://ca.finance.yahoo.com/quote/NPF.U.TO
 https://ca.finance.yahoo.com/quote/NXR.UN.TO
 https://ca.finance.yahoo.com/quote/NIF.UN.TO
