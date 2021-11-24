@@ -133,8 +133,8 @@ https://ca.finance.yahoo.com/quote/U.U.TO
 https://ca.finance.yahoo.com/quote/RAY.A.TO
 https://ca.finance.yahoo.com/quote/SMU.UN.TO
 https://ca.finance.yahoo.com/quote/AGR.UN.TO
-https://ca.finance.yahoo.com/quote/SIH.UN.TO
 https://ca.finance.yahoo.com/quote/INF.UN.TO
+https://ca.finance.yahoo.com/quote/SIH.UN.TO
 https://ca.finance.yahoo.com/quote/TECK.A.TO
 https://ca.finance.yahoo.com/quote/QETH.U.TO
 https://ca.finance.yahoo.com/quote/TXT.PR.A.TO
