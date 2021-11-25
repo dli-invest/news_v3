@@ -156,15 +156,12 @@ https://ca.finance.yahoo.com/quote/ALTN.P.V
 https://ca.finance.yahoo.com/quote/AAC.P.V
 https://ca.finance.yahoo.com/quote/ANCV.P.V
 https://ca.finance.yahoo.com/quote/EESH.P.V
-https://ca.finance.yahoo.com/quote/ANKH.P.V
 https://ca.finance.yahoo.com/quote/ANTV.P.V
-https://ca.finance.yahoo.com/quote/AVII.P.V
 https://ca.finance.yahoo.com/quote/AIV.P.V
 https://ca.finance.yahoo.com/quote/AMU.P.V
 https://ca.finance.yahoo.com/quote/ASTN.P.V
 https://ca.finance.yahoo.com/quote/BLTC.P.V
 https://ca.finance.yahoo.com/quote/BASQ.P.V
-https://ca.finance.yahoo.com/quote/BCC.P.V
 https://ca.finance.yahoo.com/quote/STAK.P.V
 https://ca.finance.yahoo.com/quote/BMGB.P.V
 https://ca.finance.yahoo.com/quote/BOLD.P.V
@@ -215,6 +212,7 @@ https://ca.finance.yahoo.com/quote/SARG.P.V
 https://ca.finance.yahoo.com/quote/JST.P.V
 https://ca.finance.yahoo.com/quote/KAPA.P.V
 https://ca.finance.yahoo.com/quote/KKL.P.V
+https://ca.finance.yahoo.com/quote/KSI.V
 https://ca.finance.yahoo.com/quote/LCC.P.V
 https://ca.finance.yahoo.com/quote/LRT.DB.G.V
 https://ca.finance.yahoo.com/quote/LILL.P.V
@@ -227,12 +225,12 @@ https://ca.finance.yahoo.com/quote/MVM.V
 https://ca.finance.yahoo.com/quote/MINK.P.V
 https://ca.finance.yahoo.com/quote/MIZA.P.V
 https://ca.finance.yahoo.com/quote/MSMJ.P.V
+https://ca.finance.yahoo.com/quote/MGLD.V
 https://ca.finance.yahoo.com/quote/MOO.P.V
 https://ca.finance.yahoo.com/quote/HIP.WT.A.V
 https://ca.finance.yahoo.com/quote/NHT.U.V
 https://ca.finance.yahoo.com/quote/NFD.A.V
 https://ca.finance.yahoo.com/quote/ORC.A.V
-https://ca.finance.yahoo.com/quote/ORCS.P.V
 https://ca.finance.yahoo.com/quote/PANO.P.V
 https://ca.finance.yahoo.com/quote/PVF.PR.U.V
 https://ca.finance.yahoo.com/quote/PCL.P.V
@@ -242,11 +240,11 @@ https://ca.finance.yahoo.com/quote/PINH.P.V
 https://ca.finance.yahoo.com/quote/PIV.P.V
 https://ca.finance.yahoo.com/quote/POCC.P.V
 https://ca.finance.yahoo.com/quote/RRR.UN.V
+https://ca.finance.yahoo.com/quote/RPC.V
 https://ca.finance.yahoo.com/quote/RBZ.P.V
 https://ca.finance.yahoo.com/quote/RSE.P.V
 https://ca.finance.yahoo.com/quote/RJX.A.V
 https://ca.finance.yahoo.com/quote/RMS.P.V
-https://ca.finance.yahoo.com/quote/R.P.V
 https://ca.finance.yahoo.com/quote/SAAS.P.V
 https://ca.finance.yahoo.com/quote/SSS.P.V
 https://ca.finance.yahoo.com/quote/SJR.A.V
@@ -326,6 +324,7 @@ https://ca.finance.yahoo.com/quote/TRIP.WT.CN
 https://ca.finance.yahoo.com/quote/RWB.WT.CN
 https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
+https://ca.finance.yahoo.com/quote/SPRT.CN
 https://ca.finance.yahoo.com/quote/SNA.CN
 https://ca.finance.yahoo.com/quote/PKK.WT.CN
 https://ca.finance.yahoo.com/quote/TGOD.WB.CN
@@ -346,3 +345,4 @@ https://ca.finance.yahoo.com/quote/VSBY.WT.A.CN
 https://ca.finance.yahoo.com/quote/VSBY.WT.CN
 https://ca.finance.yahoo.com/quote/WDR.WT.CN
 https://ca.finance.yahoo.com/quote/WSM.X.CN
+https://ca.finance.yahoo.com/quote/XRX.CN
