@@ -227,6 +227,7 @@ https://ca.finance.yahoo.com/quote/MVM.V
 https://ca.finance.yahoo.com/quote/MINK.P.V
 https://ca.finance.yahoo.com/quote/MIZA.P.V
 https://ca.finance.yahoo.com/quote/MSMJ.P.V
+https://ca.finance.yahoo.com/quote/MGLD.V
 https://ca.finance.yahoo.com/quote/MOO.P.V
 https://ca.finance.yahoo.com/quote/HIP.WT.A.V
 https://ca.finance.yahoo.com/quote/NHT.U.V
