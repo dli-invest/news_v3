@@ -246,8 +246,8 @@ https://ca.finance.yahoo.com/quote/RRR.UN.V
 https://ca.finance.yahoo.com/quote/RBZ.P.V
 https://ca.finance.yahoo.com/quote/RSE.P.V
 https://ca.finance.yahoo.com/quote/RJX.A.V
-https://ca.finance.yahoo.com/quote/RMS.P.V
 https://ca.finance.yahoo.com/quote/R.P.V
+https://ca.finance.yahoo.com/quote/RMS.P.V
 https://ca.finance.yahoo.com/quote/SAAS.P.V
 https://ca.finance.yahoo.com/quote/SSS.P.V
 https://ca.finance.yahoo.com/quote/SJR.A.V
