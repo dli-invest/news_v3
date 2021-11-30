@@ -291,7 +291,6 @@ https://ca.finance.yahoo.com/quote/TIUM.U.CN
 https://ca.finance.yahoo.com/quote/CHM.WT.CN
 https://ca.finance.yahoo.com/quote/CHOO.WT.CN
 https://ca.finance.yahoo.com/quote/DOC.WT.CN
-https://ca.finance.yahoo.com/quote/CXC.CN
 https://ca.finance.yahoo.com/quote/CL.WT.CN
 https://ca.finance.yahoo.com/quote/DVN.WT.CN
 https://ca.finance.yahoo.com/quote/FONE.WT.B.CN
@@ -327,7 +326,6 @@ https://ca.finance.yahoo.com/quote/TRIP.WT.CN
 https://ca.finance.yahoo.com/quote/RWB.WT.CN
 https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
-https://ca.finance.yahoo.com/quote/SNA.CN
 https://ca.finance.yahoo.com/quote/PKK.WT.CN
 https://ca.finance.yahoo.com/quote/TGOD.WB.CN
 https://ca.finance.yahoo.com/quote/TGOD.WS.CN
