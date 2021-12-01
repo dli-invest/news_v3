@@ -1,13 +1,12 @@
 https://ca.finance.yahoo.com/quote/AW.UN.TO
-https://ca.finance.yahoo.com/quote/AGF.B.TO
 https://ca.finance.yahoo.com/quote/AKT.A.TO
-https://ca.finance.yahoo.com/quote/ATD.A.TO
 https://ca.finance.yahoo.com/quote/AP.UN.TO
 https://ca.finance.yahoo.com/quote/HOT.DB.U.TO
-https://ca.finance.yahoo.com/quote/ADW.A.TO
+https://ca.finance.yahoo.com/quote/AGF.B.TO
 https://ca.finance.yahoo.com/quote/AX.PR.A.TO
 https://ca.finance.yahoo.com/quote/HRR.UN.TO
 https://ca.finance.yahoo.com/quote/APR.UN.TO
+https://ca.finance.yahoo.com/quote/ADW.A.TO
 https://ca.finance.yahoo.com/quote/BEK.B.TO
 https://ca.finance.yahoo.com/quote/BIK.PR.A.TO
 https://ca.finance.yahoo.com/quote/BLB.UN.TO
@@ -324,6 +323,7 @@ https://ca.finance.yahoo.com/quote/VEGN.WT.CN
 https://ca.finance.yahoo.com/quote/PULL.WT.CN
 https://ca.finance.yahoo.com/quote/TRIP.WT.CN
 https://ca.finance.yahoo.com/quote/RWB.WT.CN
+https://ca.finance.yahoo.com/quote/RLSC.CN
 https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
 https://ca.finance.yahoo.com/quote/PKK.WT.CN
