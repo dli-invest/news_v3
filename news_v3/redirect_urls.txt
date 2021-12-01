@@ -121,8 +121,8 @@ https://ca.finance.yahoo.com/quote/RAV.UN.TO
 https://ca.finance.yahoo.com/quote/QSP.UN.TO
 https://ca.finance.yahoo.com/quote/RPI.UN.TO
 https://ca.finance.yahoo.com/quote/RIB.UN.TO
-https://ca.finance.yahoo.com/quote/REI.UN.TO
 https://ca.finance.yahoo.com/quote/RCI.A.TO
+https://ca.finance.yahoo.com/quote/REI.UN.TO
 https://ca.finance.yahoo.com/quote/MIC.PR.A.TO
 https://ca.finance.yahoo.com/quote/SJR.B.TO
 https://ca.finance.yahoo.com/quote/SRV.UN.TO
