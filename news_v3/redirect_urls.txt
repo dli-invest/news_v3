@@ -293,8 +293,8 @@ https://ca.finance.yahoo.com/quote/CHOO.WT.CN
 https://ca.finance.yahoo.com/quote/DOC.WT.CN
 https://ca.finance.yahoo.com/quote/CL.WT.CN
 https://ca.finance.yahoo.com/quote/DVN.WT.CN
-https://ca.finance.yahoo.com/quote/FONE.WT.B.CN
 https://ca.finance.yahoo.com/quote/FONE.WT.A.CN
+https://ca.finance.yahoo.com/quote/FONE.WT.B.CN
 https://ca.finance.yahoo.com/quote/FONE.DB.C.CN
 https://ca.finance.yahoo.com/quote/FONE.DB.B.CN
 https://ca.finance.yahoo.com/quote/FONE.WT.CN
@@ -309,8 +309,8 @@ https://ca.finance.yahoo.com/quote/JUSH.DB.U.CN
 https://ca.finance.yahoo.com/quote/KWG.A.CN
 https://ca.finance.yahoo.com/quote/LOWL.WT.CN
 https://ca.finance.yahoo.com/quote/MMF.UN.CN
-https://ca.finance.yahoo.com/quote/MCUR.WT.CN
 https://ca.finance.yahoo.com/quote/MSET.WT.CN
+https://ca.finance.yahoo.com/quote/MCUR.WT.CN
 https://ca.finance.yahoo.com/quote/MY.X.CN
 https://ca.finance.yahoo.com/quote/NAB.NT.CN
 https://ca.finance.yahoo.com/quote/SPOR.WT.CN
@@ -329,8 +329,8 @@ https://ca.finance.yahoo.com/quote/RSF.WT.CN
 https://ca.finance.yahoo.com/quote/CUBE.CN
 https://ca.finance.yahoo.com/quote/PKK.WT.CN
 https://ca.finance.yahoo.com/quote/TGOD.WB.CN
-https://ca.finance.yahoo.com/quote/TGOD.WS.CN
 https://ca.finance.yahoo.com/quote/TGOD.WR.CN
+https://ca.finance.yahoo.com/quote/TGOD.WS.CN
 https://ca.finance.yahoo.com/quote/TLP.UN.CN
 https://ca.finance.yahoo.com/quote/TCAN.WT.CN
 https://ca.finance.yahoo.com/quote/TCC.DB.A.CN
