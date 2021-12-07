@@ -250,10 +250,10 @@ https://ca.finance.yahoo.com/quote/RMS.P.V
 https://ca.finance.yahoo.com/quote/R.P.V
 https://ca.finance.yahoo.com/quote/SAAS.P.V
 https://ca.finance.yahoo.com/quote/SSS.P.V
-https://ca.finance.yahoo.com/quote/SJR.A.V
 https://ca.finance.yahoo.com/quote/SAC.P.V
 https://ca.finance.yahoo.com/quote/SAWC.P.V
 https://ca.finance.yahoo.com/quote/SSSS.P.V
+https://ca.finance.yahoo.com/quote/SJR.A.V
 https://ca.finance.yahoo.com/quote/SSX.P.V
 https://ca.finance.yahoo.com/quote/SMAR.P.V
 https://ca.finance.yahoo.com/quote/SNI.PR.A.V
@@ -271,9 +271,9 @@ https://ca.finance.yahoo.com/quote/WWA.P.V
 https://ca.finance.yahoo.com/quote/GIG.P.V
 https://ca.finance.yahoo.com/quote/YUB.P.V
 https://ca.finance.yahoo.com/quote/ZENI.P.V
-https://ca.finance.yahoo.com/quote/FFNT.WT.CN
 https://ca.finance.yahoo.com/quote/ACRG.A.U.CN
 https://ca.finance.yahoo.com/quote/ACRG.B.U.CN
+https://ca.finance.yahoo.com/quote/FFNT.WT.CN
 https://ca.finance.yahoo.com/quote/AG.UN.CN
 https://ca.finance.yahoo.com/quote/AAWH.U.CN
 https://ca.finance.yahoo.com/quote/AVM.X.CN
@@ -302,8 +302,8 @@ https://ca.finance.yahoo.com/quote/GHG.WT.CN
 https://ca.finance.yahoo.com/quote/SWIS.WT.CN
 https://ca.finance.yahoo.com/quote/CANN.WT.A.CN
 https://ca.finance.yahoo.com/quote/CANN.WT.CN
-https://ca.finance.yahoo.com/quote/BETS.WT.CN
 https://ca.finance.yahoo.com/quote/IKNK.U.CN
+https://ca.finance.yahoo.com/quote/BETS.WT.CN
 https://ca.finance.yahoo.com/quote/IONC.WT.CN
 https://ca.finance.yahoo.com/quote/JUSH.DB.U.CN
 https://ca.finance.yahoo.com/quote/KWG.A.CN
@@ -340,8 +340,8 @@ https://ca.finance.yahoo.com/quote/TRUL.DB.U.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.A.CN
 https://ca.finance.yahoo.com/quote/URB.A.CN
 https://ca.finance.yahoo.com/quote/VPH.WT.CN
-https://ca.finance.yahoo.com/quote/VEXT.WT.CN
 https://ca.finance.yahoo.com/quote/VEXT.WT.A.CN
+https://ca.finance.yahoo.com/quote/VEXT.WT.CN
 https://ca.finance.yahoo.com/quote/VSBY.WT.A.CN
 https://ca.finance.yahoo.com/quote/VSBY.WT.CN
 https://ca.finance.yahoo.com/quote/WDR.WT.CN
