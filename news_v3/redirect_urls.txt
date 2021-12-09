@@ -317,9 +317,9 @@ https://ca.finance.yahoo.com/quote/SPOR.WT.CN
 https://ca.finance.yahoo.com/quote/VAI.X.CN
 https://ca.finance.yahoo.com/quote/OPTI.WT.CN
 https://ca.finance.yahoo.com/quote/PLTH.WT.D.CN
+https://ca.finance.yahoo.com/quote/PLTH.WT.A.CN
 https://ca.finance.yahoo.com/quote/PLTH.WT.B.CN
 https://ca.finance.yahoo.com/quote/PLTH.WT.C.CN
-https://ca.finance.yahoo.com/quote/PLTH.WT.A.CN
 https://ca.finance.yahoo.com/quote/VEGN.WT.CN
 https://ca.finance.yahoo.com/quote/PJO.CN
 https://ca.finance.yahoo.com/quote/PULL.WT.CN
