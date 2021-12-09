@@ -65,9 +65,9 @@ https://ca.finance.yahoo.com/quote/MAYB.F.TO
 https://ca.finance.yahoo.com/quote/NOVB.F.TO
 https://ca.finance.yahoo.com/quote/MHC.U.TO
 https://ca.finance.yahoo.com/quote/FFI.UN.TO
-https://ca.finance.yahoo.com/quote/GDG.UN.TO
 https://ca.finance.yahoo.com/quote/BL.UN.TO
 https://ca.finance.yahoo.com/quote/GEC.UN.TO
+https://ca.finance.yahoo.com/quote/GDG.UN.TO
 https://ca.finance.yahoo.com/quote/GRT.UN.TO
 https://ca.finance.yahoo.com/quote/HR.UN.TO
 https://ca.finance.yahoo.com/quote/HMM.A.TO
