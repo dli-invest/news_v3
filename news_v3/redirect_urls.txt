@@ -232,6 +232,7 @@ https://ca.finance.yahoo.com/quote/MGLD.V
 https://ca.finance.yahoo.com/quote/MOO.P.V
 https://ca.finance.yahoo.com/quote/HIP.WT.A.V
 https://ca.finance.yahoo.com/quote/NHT.U.V
+https://ca.finance.yahoo.com/quote/NIP.V
 https://ca.finance.yahoo.com/quote/NFD.A.V
 https://ca.finance.yahoo.com/quote/ORC.A.V
 https://ca.finance.yahoo.com/quote/ORCS.P.V
