@@ -174,10 +174,15 @@ https://ca.finance.yahoo.com/quote/BOLD.P.V
 https://ca.finance.yahoo.com/quote/BRCB.P.V
 https://ca.finance.yahoo.com/quote/BRN.PR.A.V
 https://ca.finance.yahoo.com/quote/RCR.P.V
+https://ca.finance.yahoo.com/quote/CASA.V
 https://ca.finance.yahoo.com/quote/CBAR.P.V
 https://ca.finance.yahoo.com/quote/CSTL.P.V
 https://ca.finance.yahoo.com/quote/CCCA.P.V
+https://ca.finance.yahoo.com/quote/CBG.V
+https://ca.finance.yahoo.com/quote/CTO.V
+https://ca.finance.yahoo.com/quote/CDX.V
 https://ca.finance.yahoo.com/quote/COLL.P.V
+https://ca.finance.yahoo.com/quote/CMU.V
 https://ca.finance.yahoo.com/quote/CVI.P.V
 https://ca.finance.yahoo.com/quote/CTWO.P.V
 https://ca.finance.yahoo.com/quote/CRAN.P.V
@@ -188,7 +193,10 @@ https://ca.finance.yahoo.com/quote/DCX.P.V
 https://ca.finance.yahoo.com/quote/DUR.P.V
 https://ca.finance.yahoo.com/quote/DPCC.P.V
 https://ca.finance.yahoo.com/quote/DGL.P.V
+https://ca.finance.yahoo.com/quote/DGHI.V
+https://ca.finance.yahoo.com/quote/DCMC.V
 https://ca.finance.yahoo.com/quote/DURO.P.V
+https://ca.finance.yahoo.com/quote/EAM.V
 https://ca.finance.yahoo.com/quote/ECAP.P.V
 https://ca.finance.yahoo.com/quote/ESGO.P.V
 https://ca.finance.yahoo.com/quote/XCAP.P.V
