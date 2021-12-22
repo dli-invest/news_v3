@@ -6,6 +6,7 @@ https://ca.finance.yahoo.com/quote/ATD.A.TO
 https://ca.finance.yahoo.com/quote/AP.UN.TO
 https://ca.finance.yahoo.com/quote/HOT.DB.U.TO
 https://ca.finance.yahoo.com/quote/ADW.A.TO
+https://ca.finance.yahoo.com/quote/AQA.TO
 https://ca.finance.yahoo.com/quote/AX.PR.A.TO
 https://ca.finance.yahoo.com/quote/HRR.UN.TO
 https://ca.finance.yahoo.com/quote/APR.UN.TO
