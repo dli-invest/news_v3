@@ -16,10 +16,9 @@ class TickerControllerV2:
         increase speed, no need to grab all data dynamically.
         """
         self.yf_tickers = []
+        default_url = cfg.get("default_url", "https://raw.githubusercontent.com/FriendlyUser/cad_tickers_list/main/static/latest/stocks.csv")
         # import csv from github
-        ticker_df = pd.read_csv(
-            "https://raw.githubusercontent.com/FriendlyUser/cad_tickers_list/main/static/latest/stocks.csv"
-        )
+        ticker_df = pd.read_csv(default_url)
         # searchfor = [".WT", ".UN"]
         # ticker_df = ticker_df[~ticker_df.symbol.str.contains('|'.join(searchfor))]
         # purge tickers with .WT

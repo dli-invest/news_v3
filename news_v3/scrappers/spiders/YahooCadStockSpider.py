@@ -5,13 +5,14 @@ import os
 from datetime import datetime
 import dateparser
 import json
+from spacy import nlp
 from scrappers.get_tickers import TickerControllerV2
 from bs4 import BeautifulSoup
 
 output_file = "yahoo_urls.txt"
 
-class YahooStockSpider(scrapy.Spider):
-    name = "stock_news"
+class YahooCadStockSpider(scrapy.Spider):
+    name = "cad_stock_news"
     base_yahoo_url = "https://ca.finance.yahoo.com/quote"
     ticker_controller = TickerControllerV2({})
     should_visit_news_articles = False
@@ -29,7 +30,6 @@ class YahooStockSpider(scrapy.Spider):
     def start_requests(self):
         tickers = self.ticker_controller.get_ytickers()
         yahoo_urls = [f"{self.base_yahoo_url}/{ticker}" for ticker in tickers]
-        print(len(yahoo_urls))
         urls = yahoo_urls
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)

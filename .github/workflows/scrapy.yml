@@ -3,15 +3,12 @@ on:
   push:
     branches:
       - 'main'
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '2 8-20/2 * * 1-5'
 
 env:
-  DISCORD_WEBHOOK: ${{ secrets.DISCORD_NEWS_WEBHOOK}}
+  DISCORD_WEBHOOK: ${{ secrets.DISCORD_STOCK_NEW_RELEASE_WEBHOOK }}
 # Add cron job to ensure external webpages + apis have no changed
 jobs:
-  scrap_data:
+  scrap_data: 
     runs-on: ubuntu-latest
     name: coverage
     env:
@@ -31,7 +28,7 @@ jobs:
       - name: Crawl
         run:  |
          cd news_v3
-         scrapy crawl stock_news
+         scrapy crawl cad_stock_news
       - name: Commit files
         run: |
           if [[ -z $(git status -s) ]]
