@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 import dateparser
 import json
-from spacy import nlp
+import spacy
 from scrappers.get_tickers import TickerControllerV2
 from bs4 import BeautifulSoup
 
@@ -129,7 +129,7 @@ class YahooCadStockSpider(scrapy.Spider):
         article_data.\
             replace("Story continues.", "").\
             replace("Download the Yahoo Finance app, available for Apple and Android.", "")
-        
+        nlp = spacy.load("en_core_web_sm")
         doc = nlp(article_data)
         entities = []
         has_critical_term = False
